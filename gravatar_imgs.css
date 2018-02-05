@@ -1,0 +1,6 @@
+.gravatar_imgs_img { width:41px; float: left; display: inline; border-radius: 5px; }
+.widescreen .messagelist td.subject span.fromto { padding-left:12px; }
+.widescreen .messagelist td.subject span.subject { display:inline; }
+
+.desktop .gravatar_imgs_img, .list .gravatar_imgs_img { width:32px; }
+.desktop .messagelist tbody tr td.subject a, .list .messagelist tbody tr td.subject a { line-height:31px; }
