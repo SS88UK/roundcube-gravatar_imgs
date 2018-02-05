@@ -1,5 +1,5 @@
 {
-    "name": "ss88uk/gravatar_imgs",
+    "name": "ss88/gravatar_imgs",
     "type": "roundcube-plugin",
     "description": "Display Gravatar image in message list view.",
     "license": "GPL-3.0+",
