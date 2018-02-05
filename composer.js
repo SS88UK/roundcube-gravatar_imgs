@@ -1,0 +1,17 @@
+{
+    "name": "SS88UK/gravatar_imgs",
+    "type": "roundcube-plugin",
+    "description": "Display Gravatar image in message list view.",
+    "license": "GPL-3.0+",
+    "keywords": ["gravatar","photo", "avatar"],
+    "homepage": "https://github.com/SS88UK/roundcube-gravatar_imgs/",
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://plugins.roundcube.net"
+        }
+    ],
+    "require": {
+        "roundcube/plugin-installer": ">=0.1.6"
+    }
+}
